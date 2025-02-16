@@ -1,1 +1,1 @@
-vllm:latest
+vllm-openai:latest
