@@ -1,1 +1,1 @@
-node:18-slim
+rust:1-slim
