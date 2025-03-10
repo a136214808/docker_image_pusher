@@ -1,1 +1,1 @@
-golang
+rust:22-slim
