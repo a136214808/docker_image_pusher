@@ -1,1 +1,1 @@
-mugglejinx/owl
+python:3.10-slim
