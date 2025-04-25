@@ -1,1 +1,1 @@
-infiniflow/ragflow:nightly
+nginx:stable-alpine
