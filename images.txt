@@ -1,1 +1,2 @@
-infiniflow/sandbox-executor-manager:latest
+infiniflow/sandbox-base-python:latest
+infiniflow/sandbox-base-nodejs:latest
