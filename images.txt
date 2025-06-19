@@ -1,1 +1,1 @@
-mineru-sglang:latest
+frdel/agent-zero:latest
