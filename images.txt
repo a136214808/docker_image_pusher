@@ -1,1 +1,1 @@
-frdel/agent-zero:latest
+matrixorigin/matrixone:2.1.1
