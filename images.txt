@@ -1,1 +1,2 @@
-ghcr.io/berriai/litellm:main-latest
+sam2/frontend
+sam2/backend
