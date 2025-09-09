@@ -1,1 +1,1 @@
-docker.all-hands.dev/all-hands-ai/openhands:0.55
+ghcr.io/all-hands-ai/runtime:oh_v0.55.0_9q0e54298ler2wuu_3pzc0y7qyyd32kra
