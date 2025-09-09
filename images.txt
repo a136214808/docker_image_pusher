@@ -1,1 +1,1 @@
-vllm/vllm-openai:gptoss
+docker.all-hands.dev/all-hands-ai/runtime:0.55-nikolaik
