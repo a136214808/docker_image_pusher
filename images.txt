@@ -1,1 +1,1 @@
-mineru-vllm:latest
+llama.cpp:server-cuda-b7044
