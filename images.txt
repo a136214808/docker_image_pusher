@@ -1,2 +1,2 @@
-verlai/verl:app-verl0.4-vllm0.8.5-mcore0.12.2-te2.2
+verlai/verl:vllm011.dev_qwenvl_cp
 
