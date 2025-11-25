@@ -1,2 +1,1 @@
-verlai/verl:vllm011.dev_qwenvl_cp
-
+zhyict/verl:verl0.7.0-transformers4.57.1-vllm0.11.0-mcore0.13.1
