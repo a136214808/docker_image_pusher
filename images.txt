@@ -1,1 +1,1 @@
-zhyict/verl:verl0.7.0-transformers4.57.1-vllm0.11.0-mcore0.13.1
+vllm/vllm-openai:nightly
