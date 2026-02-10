@@ -1,1 +1,9 @@
-vllm/vllm-openai:nightly
+nginx:latest
+langgenius/dify-api:1.2.0
+langgenius/dify-plugin-daemon:0.0.7-local
+langgenius/dify-web:1.2.0
+postgres:15-alpine
+ubuntu/squid:latest
+langgenius/dify-sandbox:0.2.11
+redis:6-alpine
+semitechnologies/weaviate:1.19.0
