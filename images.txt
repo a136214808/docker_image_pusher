@@ -1,1 +1,1 @@
-vllm/vllm-openai:qwen3_5
+agentscope/copaw:latest
