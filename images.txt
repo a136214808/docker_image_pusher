@@ -1,1 +1,1 @@
-verlai/verl:vllm017.latest
+mysql:9.6.0
