@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:latest
+honcho/honcho:latest
