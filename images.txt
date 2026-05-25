@@ -1,1 +1,1 @@
-mineru:latest
+calciumion/new-api:latest
