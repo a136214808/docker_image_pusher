@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+cognee/cognee:main
