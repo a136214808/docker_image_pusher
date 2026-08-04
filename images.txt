@@ -1,1 +1,1 @@
-cognee/cognee:main
+ainoe/vllm-deepseek-v4-a100:cu129-4c29672
